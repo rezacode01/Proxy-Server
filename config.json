@@ -1,0 +1,42 @@
+{
+  "port": 8080,
+
+  "logging": {
+    "enable": true,
+    "logFile": "proxy.log"
+  },
+
+  "caching": {
+    "enable": true
+  },
+
+  "privacy": {
+    "enable": true,
+    "userAgent": "CN Proxy Server (v1.0.0)"
+  },
+
+  "restriction": {
+    "enable": true,
+    "targets": [
+      {
+        "URL": "sib.ir",
+        "restrictType": "BLOCK"
+      },
+      {
+        "URL": "acm.ut.ac.ir",
+        "restrictType": "SLOW",
+        "delay": 100
+      }
+    ]
+  },
+
+  "tabnakInjection": {
+    "enable": true,
+    "post": {
+      "title": "دلار به ٤٦٦٤تومان سقوط کرد!",
+      "body": "دلار آمریکا در ساعات پایانی امروز با کاهش ٢٢٦ تومان نسبت به روز گذشته، در بازار آزاد با نرخ ٤٦٦٤ تومان معامله شد. هر سکه تمام طرح جدید امروز با قیمت یک میلیون و ٥٥٤ هزار تومان داد و ستد شد که نسبت به روز گذشته ٢٣ هزار تومان کاهش قیمت داشته است.",
+      "address": "https://www.google.com",
+      "imageUrl": "http://cdn.tabnak.ir/files/fa/news/1397/4/12/903338_451.jpg"
+    }
+  }
+}

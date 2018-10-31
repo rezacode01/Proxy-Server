@@ -1,0 +1,2661 @@
+[2018-10-31 19:29:00.235566] Proxy launched
+[2018-10-31 19:29:00.235633] Creating server...
+[2018-10-31 19:29:00.235673] Binding socket to port 8080...
+[2018-10-31 19:29:00.235687] Listening for incoming requests...
+
+[2018-10-31 19:29:02.888101] Accept a request from client!
+[2018-10-31 19:29:02.888134] Client sent request to proxy with headers:
+[2018-10-31 19:29:02.888146] Connect to from ('127.0.0.1', 49104)
+
+
+2018-10-31 19:29:02.888155
+-------------------------------------------
+b'GET http://tabnak.ir/ HTTP/1.1'
+b'Host: tabnak.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Connection: keep-alive'
+b'Upgrade-Insecure-Requests: 1'
+b'Cache-Control: max-age=0'
+b''
+-------------------------------------------
+
+2018-10-31 19:29:03.507588
+-------------------------------------------
+Content-Type: text/html; charset=utf-8
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Connection: close
+Date: Wed, 31 Oct 2018 15:59:02 GMT
+Content-Length: 94148
+Content-Encoding: gzip
+
+-------------------------------------------
+[2018-10-31 19:29:27.632222] Accept a request from client!
+[2018-10-31 19:29:27.632250] Client sent request to proxy with headers:
+[2018-10-31 19:29:27.632258] Connect to from ('127.0.0.1', 49122)
+
+
+2018-10-31 19:29:27.632264
+-------------------------------------------
+b'GET http://medalelectronic.com/ HTTP/1.1'
+b'Host: medalelectronic.com'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Connection: keep-alive'
+b'Upgrade-Insecure-Requests: 1'
+b''
+-------------------------------------------
+
+2018-10-31 19:29:29.423988
+-------------------------------------------
+Date: Wed, 31 Oct 2018 15:59:29 GMT
+Server: Apache
+Set-Cookie: vsid=914vr2885471691906972; expires=Mon, 30-Oct-2023 15:59:29 GMT; Max-Age=157680000; path=/; domain=ww1.medalelectronic.com; HttpOnly
+Content-Length: 272
+Keep-Alive: timeout=5, max=122
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+-------------------------------------------
+[2018-10-31 19:29:54.578819] Accept a request from client!
+[2018-10-31 19:29:54.578877] Client sent request to proxy with headers:
+[2018-10-31 19:29:54.578899] Connect to from ('127.0.0.1', 49130)
+
+
+2018-10-31 19:29:54.578916
+-------------------------------------------
+b'GET http://www.baharnews.ir/ HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Connection: keep-alive'
+b'Upgrade-Insecure-Requests: 1'
+b''
+-------------------------------------------
+
+2018-10-31 19:29:56.743643
+-------------------------------------------
+Date: Wed, 31 Oct 2018 15:59:55 GMT
+Server: Apache
+X-Powered-By: PHP/5.2.17
+Set-Cookie: ismob=0
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+-------------------------------------------
+[2018-10-31 19:29:56.778057] Accept a request from client!
+[2018-10-31 19:29:56.778095] Client sent request to proxy with headers:
+[2018-10-31 19:29:56.778114] Connect to from ('127.0.0.1', 49134)
+
+
+2018-10-31 19:29:56.778126
+-------------------------------------------
+b'GET http://www.baharnews.ir/pack/?g=viman&dir=rtl HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:29:58.411645
+-------------------------------------------
+Date: Wed, 31 Oct 2018 15:59:57 GMT
+Server: Apache
+X-Powered-By: PHP/5.2.17
+Expires: Thu, 01 Nov 2018 15:59:57 GMT
+Vary: Accept-Encoding
+ETag: "pub1517899925"
+Cache-Control: max-age=86400
+Last-Modified: Tue, 06 Feb 2018 06:52:05 GMT
+Content-Length: 227494
+Connection: close
+Content-Type: application/x-javascript; charset=utf-8
+
+-------------------------------------------
+[2018-10-31 19:29:58.412185] Accept a request from client!
+[2018-10-31 19:29:58.412237] Client sent request to proxy with headers:
+[2018-10-31 19:29:58.412263] Connect to from ('127.0.0.1', 49136)
+
+
+2018-10-31 19:29:58.412286
+-------------------------------------------
+b'GET http://www.baharnews.ir/script/bootstrap/css/bootstrap.min.css HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: text/css,*/*;q=0.1'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:29:59.080482
+-------------------------------------------
+Date: Wed, 31 Oct 2018 15:59:58 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:28 GMT
+Accept-Ranges: bytes
+Content-Length: 122204
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/css
+
+-------------------------------------------
+[2018-10-31 19:29:59.080992] Accept a request from client!
+[2018-10-31 19:29:59.081043] Client sent request to proxy with headers:
+[2018-10-31 19:29:59.081068] Connect to from ('127.0.0.1', 49138)
+
+
+2018-10-31 19:29:59.081089
+-------------------------------------------
+b'GET http://www.baharnews.ir/script/bootstrap/css/bootstrap-rtl.css HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: text/css,*/*;q=0.1'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:29:59.300201
+-------------------------------------------
+Date: Wed, 31 Oct 2018 15:59:59 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:28 GMT
+Accept-Ranges: bytes
+Content-Length: 31394
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/css
+
+-------------------------------------------
+[2018-10-31 19:29:59.300418] Accept a request from client!
+[2018-10-31 19:29:59.300444] Client sent request to proxy with headers:
+[2018-10-31 19:29:59.300457] Connect to from ('127.0.0.1', 49140)
+
+
+2018-10-31 19:29:59.300467
+-------------------------------------------
+b'GET http://www.baharnews.ir/script/bootstrap/js/bootstrap.min.js HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:29:59.779339
+-------------------------------------------
+Date: Wed, 31 Oct 2018 15:59:59 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:28 GMT
+Accept-Ranges: bytes
+Content-Length: 37330
+Vary: Accept-Encoding
+Connection: close
+Content-Type: application/x-javascript
+
+-------------------------------------------
+[2018-10-31 19:29:59.779512] Accept a request from client!
+[2018-10-31 19:29:59.779533] Client sent request to proxy with headers:
+[2018-10-31 19:29:59.779543] Connect to from ('127.0.0.1', 49142)
+
+
+2018-10-31 19:29:59.779552
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: text/css,*/*;q=0.1'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:00.316766
+-------------------------------------------
+Date: Wed, 31 Oct 2018 15:59:59 GMT
+Server: Apache
+Last-Modified: Sun, 29 Jul 2018 10:28:18 GMT
+Accept-Ranges: bytes
+Content-Length: 84009
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/css
+
+-------------------------------------------
+[2018-10-31 19:30:04.806414] Accept a request from client!
+[2018-10-31 19:30:04.806530] Client sent request to proxy with headers:
+[2018-10-31 19:30:04.806581] Connect to from ('127.0.0.1', 49144)
+
+
+2018-10-31 19:30:04.806606
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:04.806914] Accept a request from client!
+[2018-10-31 19:30:04.806948] Client sent request to proxy with headers:
+[2018-10-31 19:30:04.806969] Connect to from ('127.0.0.1', 49148)
+
+
+2018-10-31 19:30:04.806988
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:04.807163] Accept a request from client!
+[2018-10-31 19:30:04.807192] Client sent request to proxy with headers:
+[2018-10-31 19:30:04.807211] Connect to from ('127.0.0.1', 49150)
+
+
+2018-10-31 19:30:04.807229
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:04.807387] Accept a request from client!
+[2018-10-31 19:30:04.807415] Client sent request to proxy with headers:
+[2018-10-31 19:30:04.807433] Connect to from ('127.0.0.1', 49152)
+
+
+2018-10-31 19:30:04.807450
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:04.807606] Accept a request from client!
+[2018-10-31 19:30:04.807633] Client sent request to proxy with headers:
+[2018-10-31 19:30:04.807651] Connect to from ('127.0.0.1', 49156)
+
+
+2018-10-31 19:30:04.807669
+-------------------------------------------
+b'GET http://www.baharnews.ir/script/jwplayer/jwplayer.js HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:05.011926
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:04 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:28 GMT
+Accept-Ranges: bytes
+Content-Length: 41624
+Vary: Accept-Encoding
+Connection: close
+Content-Type: application/x-javascript
+
+-------------------------------------------
+[2018-10-31 19:30:05.012434] Accept a request from client!
+[2018-10-31 19:30:05.012496] Client sent request to proxy with headers:
+[2018-10-31 19:30:05.012533] Connect to from ('127.0.0.1', 49154)
+
+
+2018-10-31 19:30:05.012565
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:05.014851] Accept a request from client!
+[2018-10-31 19:30:05.014938] Client sent request to proxy with headers:
+[2018-10-31 19:30:05.014983] Connect to from ('127.0.0.1', 49172)
+
+
+2018-10-31 19:30:05.015014
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163599-b.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:05.203026
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:05 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 14:47:59 GMT
+Accept-Ranges: bytes
+Content-Length: 39187
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:05.203187] Accept a request from client!
+[2018-10-31 19:30:05.203206] Client sent request to proxy with headers:
+[2018-10-31 19:30:05.203215] Connect to from ('127.0.0.1', 49174)
+
+
+2018-10-31 19:30:05.203223
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163503-t.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:05.928915
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:05 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 05:17:21 GMT
+Accept-Ranges: bytes
+Content-Length: 169408
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:05.929183] Accept a request from client!
+[2018-10-31 19:30:05.929211] Client sent request to proxy with headers:
+[2018-10-31 19:30:05.929225] Connect to from ('127.0.0.1', 49176)
+
+
+2018-10-31 19:30:05.929237
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163503-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:06.091301
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:05 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 05:17:21 GMT
+Accept-Ranges: bytes
+Content-Length: 32527
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:06.091505] Accept a request from client!
+[2018-10-31 19:30:06.091530] Client sent request to proxy with headers:
+[2018-10-31 19:30:06.091542] Connect to from ('127.0.0.1', 49178)
+
+
+2018-10-31 19:30:06.091552
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163597-b.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:06.273342
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:06 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 14:17:59 GMT
+Accept-Ranges: bytes
+Content-Length: 37865
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:06.273705] Accept a request from client!
+[2018-10-31 19:30:06.273762] Client sent request to proxy with headers:
+[2018-10-31 19:30:06.273795] Connect to from ('127.0.0.1', 49180)
+
+
+2018-10-31 19:30:06.273825
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163598-b.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:06.405030
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:06 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 14:22:09 GMT
+Accept-Ranges: bytes
+Content-Length: 24999
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:06.405199] Accept a request from client!
+[2018-10-31 19:30:06.405225] Client sent request to proxy with headers:
+[2018-10-31 19:30:06.405240] Connect to from ('127.0.0.1', 49202)
+
+
+2018-10-31 19:30:06.405252
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163550-b.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:06.731100
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:06 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 08:48:13 GMT
+Accept-Ranges: bytes
+Content-Length: 73124
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:06.731309] Accept a request from client!
+[2018-10-31 19:30:06.731334] Client sent request to proxy with headers:
+[2018-10-31 19:30:06.731346] Connect to from ('127.0.0.1', 49246)
+
+
+2018-10-31 19:30:06.731356
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/advertise/b00000461.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:07.644905
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:06 GMT
+Server: Apache
+Last-Modified: Fri, 02 Mar 2018 12:33:43 GMT
+Accept-Ranges: bytes
+Content-Length: 214993
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:07.645593] Accept a request from client!
+[2018-10-31 19:30:07.645676] Client sent request to proxy with headers:
+[2018-10-31 19:30:07.645707] Connect to from ('127.0.0.1', 49208)
+
+
+2018-10-31 19:30:07.645735
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163595-b.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:07.821844
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:07 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 14:11:15 GMT
+Accept-Ranges: bytes
+Content-Length: 36187
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:07.822177] Accept a request from client!
+[2018-10-31 19:30:07.822218] Client sent request to proxy with headers:
+[2018-10-31 19:30:07.822239] Connect to from ('127.0.0.1', 49212)
+
+
+2018-10-31 19:30:07.822255
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163536-b.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:07.938751
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:07 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 07:18:16 GMT
+Accept-Ranges: bytes
+Content-Length: 21483
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:07.939236] Accept a request from client!
+[2018-10-31 19:30:07.939299] Client sent request to proxy with headers:
+[2018-10-31 19:30:07.939339] Connect to from ('127.0.0.1', 49214)
+
+
+2018-10-31 19:30:07.939371
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/picture_icon.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:07.972789
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:07 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:12 GMT
+Accept-Ranges: bytes
+Content-Length: 1141
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:07.972944] Accept a request from client!
+[2018-10-31 19:30:07.972964] Client sent request to proxy with headers:
+[2018-10-31 19:30:07.972974] Connect to from ('127.0.0.1', 49232)
+
+
+2018-10-31 19:30:07.972981
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163393-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:08.079242
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:08 GMT
+Server: Apache
+Last-Modified: Mon, 29 Oct 2018 08:38:16 GMT
+Accept-Ranges: bytes
+Content-Length: 18871
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:08.079401] Accept a request from client!
+[2018-10-31 19:30:08.079421] Client sent request to proxy with headers:
+[2018-10-31 19:30:08.079431] Connect to from ('127.0.0.1', 49280)
+
+
+2018-10-31 19:30:08.079438
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163555-b.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:08.420746
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:08 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 09:03:02 GMT
+Accept-Ranges: bytes
+Content-Length: 76800
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:08.421073] Accept a request from client!
+[2018-10-31 19:30:08.421111] Client sent request to proxy with headers:
+[2018-10-31 19:30:08.421132] Connect to from ('127.0.0.1', 49286)
+
+
+2018-10-31 19:30:08.421148
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163532-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:08.509619
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:08 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 07:10:05 GMT
+Accept-Ranges: bytes
+Content-Length: 14170
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:08.509893] Accept a request from client!
+[2018-10-31 19:30:08.509930] Client sent request to proxy with headers:
+[2018-10-31 19:30:08.509949] Connect to from ('127.0.0.1', 49290)
+
+
+2018-10-31 19:30:08.509964
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163491-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:08.600816
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:08 GMT
+Server: Apache
+Last-Modified: Tue, 30 Oct 2018 12:44:56 GMT
+Accept-Ranges: bytes
+Content-Length: 15364
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:08.601085] Accept a request from client!
+[2018-10-31 19:30:08.601122] Client sent request to proxy with headers:
+[2018-10-31 19:30:08.601139] Connect to from ('127.0.0.1', 49194)
+
+
+2018-10-31 19:30:08.601155
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163392-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:08.688289
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:08 GMT
+Server: Apache
+Last-Modified: Mon, 29 Oct 2018 08:34:08 GMT
+Accept-Ranges: bytes
+Content-Length: 14586
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:08.688494] Accept a request from client!
+[2018-10-31 19:30:08.688522] Client sent request to proxy with headers:
+[2018-10-31 19:30:08.688536] Connect to from ('127.0.0.1', 49198)
+
+
+2018-10-31 19:30:08.688546
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/advertise/b00000479.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:08.806329
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:08 GMT
+Server: Apache
+Last-Modified: Thu, 25 Oct 2018 13:03:29 GMT
+Accept-Ranges: bytes
+Content-Length: 22163
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:08.806702] Accept a request from client!
+[2018-10-31 19:30:08.806745] Client sent request to proxy with headers:
+[2018-10-31 19:30:08.806768] Connect to from ('127.0.0.1', 49196)
+
+
+2018-10-31 19:30:08.806786
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163479-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:09.001271
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:08 GMT
+Server: Apache
+Last-Modified: Tue, 30 Oct 2018 09:28:17 GMT
+Accept-Ranges: bytes
+Content-Length: 40525
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:09.001839] Accept a request from client!
+[2018-10-31 19:30:09.001896] Client sent request to proxy with headers:
+[2018-10-31 19:30:09.001924] Connect to from ('127.0.0.1', 49304)
+
+
+2018-10-31 19:30:09.001947
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163524-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:09.096687
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:09 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 06:41:59 GMT
+Accept-Ranges: bytes
+Content-Length: 14496
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:09.097064] Accept a request from client!
+[2018-10-31 19:30:09.097107] Client sent request to proxy with headers:
+[2018-10-31 19:30:09.097130] Connect to from ('127.0.0.1', 49218)
+
+
+2018-10-31 19:30:09.097148
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/advertise/b00000094.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:09.248418
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:09 GMT
+Server: Apache
+Last-Modified: Thu, 13 Jun 2013 09:00:59 GMT
+Accept-Ranges: bytes
+Content-Length: 29599
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:09.248772] Accept a request from client!
+[2018-10-31 19:30:09.248813] Client sent request to proxy with headers:
+[2018-10-31 19:30:09.248839] Connect to from ('127.0.0.1', 49306)
+
+
+2018-10-31 19:30:09.248860
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163487-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:09.357271
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:09 GMT
+Server: Apache
+Last-Modified: Tue, 30 Oct 2018 11:55:36 GMT
+Accept-Ranges: bytes
+Content-Length: 19830
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:09.357663] Accept a request from client!
+[2018-10-31 19:30:09.357704] Client sent request to proxy with headers:
+[2018-10-31 19:30:09.357724] Connect to from ('127.0.0.1', 49238)
+
+
+2018-10-31 19:30:09.357740
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/advertise/b00000332.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:09.872377
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:09 GMT
+Server: Apache
+Last-Modified: Sun, 07 Feb 2016 13:17:33 GMT
+Accept-Ranges: bytes
+Content-Length: 117387
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:09.872805] Accept a request from client!
+[2018-10-31 19:30:09.872842] Client sent request to proxy with headers:
+[2018-10-31 19:30:09.872860] Connect to from ('127.0.0.1', 49316)
+
+
+2018-10-31 19:30:09.872875
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163330-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:09.977704
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:09 GMT
+Server: Apache
+Last-Modified: Mon, 29 Oct 2018 07:47:06 GMT
+Accept-Ranges: bytes
+Content-Length: 18468
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:09.978137] Accept a request from client!
+[2018-10-31 19:30:09.978183] Client sent request to proxy with headers:
+[2018-10-31 19:30:09.978205] Connect to from ('127.0.0.1', 49320)
+
+
+2018-10-31 19:30:09.978223
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163349-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:10.088470
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:10 GMT
+Server: Apache
+Last-Modified: Mon, 29 Oct 2018 07:55:48 GMT
+Accept-Ranges: bytes
+Content-Length: 19005
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:10.088812] Accept a request from client!
+[2018-10-31 19:30:10.088840] Client sent request to proxy with headers:
+[2018-10-31 19:30:10.088855] Connect to from ('127.0.0.1', 49324)
+
+
+2018-10-31 19:30:10.088867
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163331-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:10.216577
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:10 GMT
+Server: Apache
+Last-Modified: Sun, 28 Oct 2018 12:20:32 GMT
+Accept-Ranges: bytes
+Content-Length: 22574
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:10.216882] Accept a request from client!
+[2018-10-31 19:30:10.216914] Client sent request to proxy with headers:
+[2018-10-31 19:30:10.216931] Connect to from ('127.0.0.1', 49328)
+
+
+2018-10-31 19:30:10.216944
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163237-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:10.330535
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:10 GMT
+Server: Apache
+Last-Modified: Sun, 28 Oct 2018 08:02:04 GMT
+Accept-Ranges: bytes
+Content-Length: 20769
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:10.330807] Accept a request from client!
+[2018-10-31 19:30:10.330834] Client sent request to proxy with headers:
+[2018-10-31 19:30:10.330847] Connect to from ('127.0.0.1', 49332)
+
+
+2018-10-31 19:30:10.330859
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163243-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:10.411675
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:10 GMT
+Server: Apache
+Last-Modified: Sat, 27 Oct 2018 15:23:51 GMT
+Accept-Ranges: bytes
+Content-Length: 13031
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:10.411975] Accept a request from client!
+[2018-10-31 19:30:10.412019] Client sent request to proxy with headers:
+[2018-10-31 19:30:10.412047] Connect to from ('127.0.0.1', 49336)
+
+
+2018-10-31 19:30:10.412070
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163132-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:10.502385
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:10 GMT
+Server: Apache
+Last-Modified: Fri, 26 Oct 2018 13:39:40 GMT
+Accept-Ranges: bytes
+Content-Length: 14367
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:10.502734] Accept a request from client!
+[2018-10-31 19:30:10.502780] Client sent request to proxy with headers:
+[2018-10-31 19:30:10.502803] Connect to from ('127.0.0.1', 49340)
+
+
+2018-10-31 19:30:10.502831
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0007.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:10.535594
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:10 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:11 GMT
+Accept-Ranges: bytes
+Content-Length: 1158
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:10.535793] Accept a request from client!
+[2018-10-31 19:30:10.535820] Client sent request to proxy with headers:
+[2018-10-31 19:30:10.535833] Connect to from ('127.0.0.1', 49344)
+
+
+2018-10-31 19:30:10.535844
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0006.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:10.614647
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:10 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:11 GMT
+Accept-Ranges: bytes
+Content-Length: 12037
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:10.614871] Accept a request from client!
+[2018-10-31 19:30:10.614902] Client sent request to proxy with headers:
+[2018-10-31 19:30:10.614919] Connect to from ('127.0.0.1', 49350)
+
+
+2018-10-31 19:30:10.614932
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/lysprites.png HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:10.762099
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:10 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:13 GMT
+Accept-Ranges: bytes
+Content-Length: 29006
+Connection: close
+Content-Type: image/png
+
+-------------------------------------------
+[2018-10-31 19:30:10.762455] Accept a request from client!
+[2018-10-31 19:30:10.762495] Client sent request to proxy with headers:
+[2018-10-31 19:30:10.762514] Connect to from ('127.0.0.1', 49354)
+
+
+2018-10-31 19:30:10.762531
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0056.png HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:10.798973
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:10 GMT
+Server: Apache
+Last-Modified: Sun, 05 Feb 2017 10:57:05 GMT
+Accept-Ranges: bytes
+Content-Length: 121
+Connection: close
+Content-Type: image/png
+
+-------------------------------------------
+[2018-10-31 19:30:10.799116] Accept a request from client!
+[2018-10-31 19:30:10.799135] Client sent request to proxy with headers:
+[2018-10-31 19:30:10.799143] Connect to from ('127.0.0.1', 49358)
+
+
+2018-10-31 19:30:10.799151
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0039.png HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:10.829455
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:10 GMT
+Server: Apache
+Last-Modified: Sun, 05 Feb 2017 10:57:05 GMT
+Accept-Ranges: bytes
+Content-Length: 193
+Connection: close
+Content-Type: image/png
+
+-------------------------------------------
+[2018-10-31 19:30:10.829690] Accept a request from client!
+[2018-10-31 19:30:10.829720] Client sent request to proxy with headers:
+[2018-10-31 19:30:10.829736] Connect to from ('127.0.0.1', 49362)
+
+
+2018-10-31 19:30:10.829748
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0015.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:10.866936
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:10 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:11 GMT
+Accept-Ranges: bytes
+Content-Length: 1752
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:10.867412] Accept a request from client!
+[2018-10-31 19:30:10.867477] Client sent request to proxy with headers:
+[2018-10-31 19:30:10.867522] Connect to from ('127.0.0.1', 49366)
+
+
+2018-10-31 19:30:10.867560
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0030.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:10.903221
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:10 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:07 GMT
+Accept-Ranges: bytes
+Content-Length: 1153
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:10.903489] Accept a request from client!
+[2018-10-31 19:30:10.903526] Client sent request to proxy with headers:
+[2018-10-31 19:30:10.903544] Connect to from ('127.0.0.1', 49370)
+
+
+2018-10-31 19:30:10.903559
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_127.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:10.938677
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:10 GMT
+Server: Apache
+Last-Modified: Thu, 08 Feb 2018 08:18:13 GMT
+Accept-Ranges: bytes
+Content-Length: 1155
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:10.938911] Accept a request from client!
+[2018-10-31 19:30:10.938941] Client sent request to proxy with headers:
+[2018-10-31 19:30:10.938955] Connect to from ('127.0.0.1', 49374)
+
+
+2018-10-31 19:30:10.938967
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0013.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:10.976312
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:10 GMT
+Server: Apache
+Last-Modified: Wed, 07 Mar 2018 13:39:07 GMT
+Accept-Ranges: bytes
+Content-Length: 1619
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:10.976455] Accept a request from client!
+[2018-10-31 19:30:10.976475] Client sent request to proxy with headers:
+[2018-10-31 19:30:10.976485] Connect to from ('127.0.0.1', 49378)
+
+
+2018-10-31 19:30:10.976492
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0016.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.014889
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:11 GMT
+Accept-Ranges: bytes
+Content-Length: 2112
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:11.015135] Accept a request from client!
+[2018-10-31 19:30:11.015173] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.015198] Connect to from ('127.0.0.1', 49382)
+
+
+2018-10-31 19:30:11.015217
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0023.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.049104
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:07 GMT
+Accept-Ranges: bytes
+Content-Length: 1112
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:11.049276] Accept a request from client!
+[2018-10-31 19:30:11.049299] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.049310] Connect to from ('127.0.0.1', 49386)
+
+
+2018-10-31 19:30:11.049319
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0022.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.083889
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:07 GMT
+Accept-Ranges: bytes
+Content-Length: 1517
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:11.084046] Accept a request from client!
+[2018-10-31 19:30:11.084066] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.084075] Connect to from ('127.0.0.1', 49394)
+
+
+2018-10-31 19:30:11.084083
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0024.png HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.119831
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:07 GMT
+Accept-Ranges: bytes
+Content-Length: 1550
+Connection: close
+Content-Type: image/png
+
+-------------------------------------------
+[2018-10-31 19:30:11.120013] Accept a request from client!
+[2018-10-31 19:30:11.120037] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.120048] Connect to from ('127.0.0.1', 49402)
+
+
+2018-10-31 19:30:11.120058
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0018.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.160396
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:07 GMT
+Accept-Ranges: bytes
+Content-Length: 1439
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:11.160549] Accept a request from client!
+[2018-10-31 19:30:11.160570] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.160579] Connect to from ('127.0.0.1', 49414)
+
+
+2018-10-31 19:30:11.160587
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_105.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.196692
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:12 GMT
+Accept-Ranges: bytes
+Content-Length: 1384
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:11.196915] Accept a request from client!
+[2018-10-31 19:30:11.196946] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.196960] Connect to from ('127.0.0.1', 49418)
+
+
+2018-10-31 19:30:11.196972
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_109.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.228288
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:12 GMT
+Accept-Ranges: bytes
+Content-Length: 1106
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:11.228470] Accept a request from client!
+[2018-10-31 19:30:11.228494] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.228505] Connect to from ('127.0.0.1', 49422)
+
+
+2018-10-31 19:30:11.228515
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_108.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.262547
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:12 GMT
+Accept-Ranges: bytes
+Content-Length: 1208
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:11.262721] Accept a request from client!
+[2018-10-31 19:30:11.262745] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.262757] Connect to from ('127.0.0.1', 49426)
+
+
+2018-10-31 19:30:11.262766
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_114.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.298689
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:12 GMT
+Accept-Ranges: bytes
+Content-Length: 1684
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:11.298947] Accept a request from client!
+[2018-10-31 19:30:11.298977] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.298994] Connect to from ('127.0.0.1', 49430)
+
+
+2018-10-31 19:30:11.299014
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_112.png HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.333401
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:12 GMT
+Accept-Ranges: bytes
+Content-Length: 1065
+Connection: close
+Content-Type: image/png
+
+-------------------------------------------
+[2018-10-31 19:30:11.333671] Accept a request from client!
+[2018-10-31 19:30:11.333710] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.333736] Connect to from ('127.0.0.1', 49434)
+
+
+2018-10-31 19:30:11.333758
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_110.png HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.364188
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:12 GMT
+Accept-Ranges: bytes
+Content-Length: 1014
+Connection: close
+Content-Type: image/png
+
+-------------------------------------------
+[2018-10-31 19:30:11.364344] Accept a request from client!
+[2018-10-31 19:30:11.364363] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.364372] Connect to from ('127.0.0.1', 49438)
+
+
+2018-10-31 19:30:11.364380
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_111.png HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.398341
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:12 GMT
+Accept-Ranges: bytes
+Content-Length: 1184
+Connection: close
+Content-Type: image/png
+
+-------------------------------------------
+[2018-10-31 19:30:11.398590] Accept a request from client!
+[2018-10-31 19:30:11.398611] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.398622] Connect to from ('127.0.0.1', 49442)
+
+
+2018-10-31 19:30:11.398631
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_106.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.440556
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:12 GMT
+Accept-Ranges: bytes
+Content-Length: 2891
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:11.440722] Accept a request from client!
+[2018-10-31 19:30:11.440743] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.440753] Connect to from ('127.0.0.1', 49446)
+
+
+2018-10-31 19:30:11.440761
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_121.png HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.474593
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:13 GMT
+Accept-Ranges: bytes
+Content-Length: 1300
+Connection: close
+Content-Type: image/png
+
+-------------------------------------------
+[2018-10-31 19:30:11.474763] Accept a request from client!
+[2018-10-31 19:30:11.474785] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.474794] Connect to from ('127.0.0.1', 49450)
+
+
+2018-10-31 19:30:11.474803
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_107.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.510588
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:12 GMT
+Accept-Ranges: bytes
+Content-Length: 1253
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:11.510803] Accept a request from client!
+[2018-10-31 19:30:11.510831] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.510845] Connect to from ('127.0.0.1', 49454)
+
+
+2018-10-31 19:30:11.510858
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_125.png HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.545132
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:13 GMT
+Accept-Ranges: bytes
+Content-Length: 1342
+Connection: close
+Content-Type: image/png
+
+-------------------------------------------
+[2018-10-31 19:30:11.545302] Accept a request from client!
+[2018-10-31 19:30:11.545325] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.545336] Connect to from ('127.0.0.1', 49458)
+
+
+2018-10-31 19:30:11.545345
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_124.png HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.580772
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:13 GMT
+Accept-Ranges: bytes
+Content-Length: 1314
+Connection: close
+Content-Type: image/png
+
+-------------------------------------------
+[2018-10-31 19:30:11.581008] Accept a request from client!
+[2018-10-31 19:30:11.581038] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.581054] Connect to from ('127.0.0.1', 49462)
+
+
+2018-10-31 19:30:11.581067
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0036_over.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.622468
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 06 Feb 2018 06:52:11 GMT
+Accept-Ranges: bytes
+Content-Length: 3161
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:11.622738] Accept a request from client!
+[2018-10-31 19:30:11.622767] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.622781] Connect to from ('127.0.0.1', 49466)
+
+
+2018-10-31 19:30:11.622792
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0001.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.655923
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:07 GMT
+Accept-Ranges: bytes
+Content-Length: 1111
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:11.656530] Accept a request from client!
+[2018-10-31 19:30:11.656606] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.656635] Connect to from ('127.0.0.1', 49470)
+
+
+2018-10-31 19:30:11.656660
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0004.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.693828
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:07 GMT
+Accept-Ranges: bytes
+Content-Length: 1107
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:11.694090] Accept a request from client!
+[2018-10-31 19:30:11.694121] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.694298] Connect to from ('127.0.0.1', 49474)
+
+
+2018-10-31 19:30:11.694348
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0005.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.727577
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:07 GMT
+Accept-Ranges: bytes
+Content-Length: 1640
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:11.727731] Accept a request from client!
+[2018-10-31 19:30:11.727756] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.727771] Connect to from ('127.0.0.1', 49478)
+
+
+2018-10-31 19:30:11.727779
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0002.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.771200
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:07 GMT
+Accept-Ranges: bytes
+Content-Length: 3465
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:11.771482] Accept a request from client!
+[2018-10-31 19:30:11.771522] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.771549] Connect to from ('127.0.0.1', 49482)
+
+
+2018-10-31 19:30:11.771573
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/ch01_0003.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.805391
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:07 GMT
+Accept-Ranges: bytes
+Content-Length: 1096
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:11.805782] Accept a request from client!
+[2018-10-31 19:30:11.805820] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.805835] Connect to from ('127.0.0.1', 49308)
+
+
+2018-10-31 19:30:11.805848
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163485-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:11.960437
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:11 GMT
+Server: Apache
+Last-Modified: Tue, 30 Oct 2018 11:48:28 GMT
+Accept-Ranges: bytes
+Content-Length: 31123
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:11.960682] Accept a request from client!
+[2018-10-31 19:30:11.960712] Client sent request to proxy with headers:
+[2018-10-31 19:30:11.960728] Connect to from ('127.0.0.1', 49392)
+
+
+2018-10-31 19:30:11.960742
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163530-b.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:12.154787
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:12 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 07:00:35 GMT
+Accept-Ranges: bytes
+Content-Length: 39516
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:12.155153] Accept a request from client!
+[2018-10-31 19:30:12.155194] Client sent request to proxy with headers:
+[2018-10-31 19:30:12.155219] Connect to from ('127.0.0.1', 49390)
+
+
+2018-10-31 19:30:12.155239
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163532-b.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:12.352774
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:12 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 07:10:05 GMT
+Accept-Ranges: bytes
+Content-Length: 38094
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:12.353031] Accept a request from client!
+[2018-10-31 19:30:12.353054] Client sent request to proxy with headers:
+[2018-10-31 19:30:12.353064] Connect to from ('127.0.0.1', 49400)
+
+
+2018-10-31 19:30:12.353075
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163526-b.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:12.505196
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:12 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 06:54:51 GMT
+Accept-Ranges: bytes
+Content-Length: 30282
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:12.505458] Accept a request from client!
+[2018-10-31 19:30:12.505482] Client sent request to proxy with headers:
+[2018-10-31 19:30:12.505493] Connect to from ('127.0.0.1', 49398)
+
+
+2018-10-31 19:30:12.505502
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163524-b.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:12.656960
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:12 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 06:41:59 GMT
+Accept-Ranges: bytes
+Content-Length: 30368
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:12.657162] Accept a request from client!
+[2018-10-31 19:30:12.657182] Client sent request to proxy with headers:
+[2018-10-31 19:30:12.657191] Connect to from ('127.0.0.1', 49314)
+
+
+2018-10-31 19:30:12.657198
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163530-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:12.766176
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:12 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 07:00:35 GMT
+Accept-Ranges: bytes
+Content-Length: 19807
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:12.766534] Accept a request from client!
+[2018-10-31 19:30:12.766572] Client sent request to proxy with headers:
+[2018-10-31 19:30:12.766592] Connect to from ('127.0.0.1', 49192)
+
+
+2018-10-31 19:30:12.766608
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163560-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:12.860449
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:12 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 09:19:22 GMT
+Accept-Ranges: bytes
+Content-Length: 14375
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:12.860747] Accept a request from client!
+[2018-10-31 19:30:12.860782] Client sent request to proxy with headers:
+[2018-10-31 19:30:12.860799] Connect to from ('127.0.0.1', 49188)
+
+
+2018-10-31 19:30:12.860814
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163526-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:12.943993
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:12 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 06:54:51 GMT
+Accept-Ranges: bytes
+Content-Length: 12653
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:13.844313] Accept a request from client!
+[2018-10-31 19:30:13.844354] Client sent request to proxy with headers:
+[2018-10-31 19:30:13.844366] Connect to from ('127.0.0.1', 49486)
+
+
+2018-10-31 19:30:13.844374
+-------------------------------------------
+b'GET http://www.baharnews.ir/favicon.ico HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:13.875708
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:13 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:10 GMT
+Accept-Ranges: bytes
+Content-Length: 1150
+Connection: close
+Content-Type: text/plain; charset=UTF-8
+
+-------------------------------------------
+[2018-10-31 19:30:13.875974] Accept a request from client!
+[2018-10-31 19:30:13.876010] Client sent request to proxy with headers:
+[2018-10-31 19:30:13.876028] Connect to from ('127.0.0.1', 49206)
+
+
+2018-10-31 19:30:13.876044
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163594-b.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:14.031044
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:13 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 13:51:29 GMT
+Accept-Ranges: bytes
+Content-Length: 30390
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:14.031479] Accept a request from client!
+[2018-10-31 19:30:14.031532] Client sent request to proxy with headers:
+[2018-10-31 19:30:14.031560] Connect to from ('127.0.0.1', 49204)
+
+
+2018-10-31 19:30:14.031583
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163592-b.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:14.249815
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:14 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 13:45:41 GMT
+Accept-Ranges: bytes
+Content-Length: 46505
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:18.062876] Accept a request from client!
+[2018-10-31 19:30:18.062921] Client sent request to proxy with headers:
+[2018-10-31 19:30:18.062935] Connect to from ('127.0.0.1', 49236)
+
+
+2018-10-31 19:30:18.062945
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:18.063149] Accept a request from client!
+[2018-10-31 19:30:18.063164] Client sent request to proxy with headers:
+[2018-10-31 19:30:18.063173] Connect to from ('127.0.0.1', 49234)
+
+
+2018-10-31 19:30:18.063182
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:19.063377] Accept a request from client!
+[2018-10-31 19:30:19.063449] Client sent request to proxy with headers:
+[2018-10-31 19:30:19.063474] Connect to from ('127.0.0.1', 49408)
+
+
+2018-10-31 19:30:19.063492
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:19.063781] Accept a request from client!
+[2018-10-31 19:30:19.063807] Client sent request to proxy with headers:
+[2018-10-31 19:30:19.063822] Connect to from ('127.0.0.1', 49404)
+
+
+2018-10-31 19:30:19.063837
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:20.063638] Accept a request from client!
+[2018-10-31 19:30:20.063688] Client sent request to proxy with headers:
+[2018-10-31 19:30:20.063706] Connect to from ('127.0.0.1', 49278)
+
+
+2018-10-31 19:30:20.063718
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:20.063901] Accept a request from client!
+[2018-10-31 19:30:20.063920] Client sent request to proxy with headers:
+[2018-10-31 19:30:20.063931] Connect to from ('127.0.0.1', 49228)
+
+
+2018-10-31 19:30:20.063941
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:20.064046] Accept a request from client!
+[2018-10-31 19:30:20.064062] Client sent request to proxy with headers:
+[2018-10-31 19:30:20.064072] Connect to from ('127.0.0.1', 49220)
+
+
+2018-10-31 19:30:20.064082
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:20.064172] Accept a request from client!
+[2018-10-31 19:30:20.064186] Client sent request to proxy with headers:
+[2018-10-31 19:30:20.064196] Connect to from ('127.0.0.1', 49222)
+
+
+2018-10-31 19:30:20.064206
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:20.064304] Accept a request from client!
+[2018-10-31 19:30:20.064319] Client sent request to proxy with headers:
+[2018-10-31 19:30:20.064340] Connect to from ('127.0.0.1', 49276)
+
+
+2018-10-31 19:30:20.064350
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:20.733860] Accept a request from client!
+[2018-10-31 19:30:20.733924] Client sent request to proxy with headers:
+[2018-10-31 19:30:20.733948] Connect to from ('127.0.0.1', 49210)
+
+
+2018-10-31 19:30:20.734086
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163596-b.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:20.965004
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:20 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 14:13:11 GMT
+Accept-Ranges: bytes
+Content-Length: 49421
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:25.994195] Accept a request from client!
+[2018-10-31 19:30:25.994253] Client sent request to proxy with headers:
+[2018-10-31 19:30:25.994273] Connect to from ('127.0.0.1', 49224)
+
+
+2018-10-31 19:30:25.994288
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:25.994502] Accept a request from client!
+[2018-10-31 19:30:25.994523] Client sent request to proxy with headers:
+[2018-10-31 19:30:25.994536] Connect to from ('127.0.0.1', 49226)
+
+
+2018-10-31 19:30:25.994548
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:26.994527] Accept a request from client!
+[2018-10-31 19:30:26.994591] Client sent request to proxy with headers:
+[2018-10-31 19:30:26.994614] Connect to from ('127.0.0.1', 49264)
+
+
+2018-10-31 19:30:26.994630
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:26.994870] Accept a request from client!
+[2018-10-31 19:30:26.994894] Client sent request to proxy with headers:
+[2018-10-31 19:30:26.994921] Connect to from ('127.0.0.1', 49272)
+
+
+2018-10-31 19:30:26.994935
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163491-b.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:27.174105
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:27 GMT
+Server: Apache
+Last-Modified: Tue, 30 Oct 2018 12:44:56 GMT
+Accept-Ranges: bytes
+Content-Length: 36930
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:27.174574] Accept a request from client!
+[2018-10-31 19:30:27.174618] Client sent request to proxy with headers:
+[2018-10-31 19:30:27.174641] Connect to from ('127.0.0.1', 49274)
+
+
+2018-10-31 19:30:27.174659
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163536-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:27.245199
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:27 GMT
+Server: Apache
+Last-Modified: Wed, 31 Oct 2018 07:18:16 GMT
+Accept-Ranges: bytes
+Content-Length: 9862
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:27.245512] Accept a request from client!
+[2018-10-31 19:30:27.245563] Client sent request to proxy with headers:
+[2018-10-31 19:30:27.245581] Connect to from ('127.0.0.1', 49230)
+
+
+2018-10-31 19:30:27.245596
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/pixel.gif HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:27.272685
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:27 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:12 GMT
+Accept-Ranges: bytes
+Content-Length: 43
+Connection: close
+Content-Type: image/gif
+
+-------------------------------------------
+[2018-10-31 19:30:38.145731] Accept a request from client!
+[2018-10-31 19:30:38.145777] Client sent request to proxy with headers:
+[2018-10-31 19:30:38.145794] Connect to from ('127.0.0.1', 49186)
+
+
+2018-10-31 19:30:38.145807
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/IRAN.woff HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: identity'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:38.623614
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:38 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:07 GMT
+Accept-Ranges: bytes
+Content-Length: 39064
+Connection: close
+Content-Type: text/plain; charset=UTF-8
+
+-------------------------------------------
+[2018-10-31 19:30:38.624086] Accept a request from client!
+[2018-10-31 19:30:38.624135] Client sent request to proxy with headers:
+[2018-10-31 19:30:38.624169] Connect to from ('127.0.0.1', 49184)
+
+
+2018-10-31 19:30:38.624200
+-------------------------------------------
+b'GET http://www.baharnews.ir/skins/default/fa/02/IRANBold.woff HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: identity'
+b'Referer: http://www.baharnews.ir/skins/default/fa/02/ch01_fa_style.css'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:39.284476
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:39 GMT
+Server: Apache
+Last-Modified: Tue, 18 Jan 2011 12:22:07 GMT
+Accept-Ranges: bytes
+Content-Length: 38752
+Connection: close
+Content-Type: text/plain; charset=UTF-8
+
+-------------------------------------------
+[2018-10-31 19:30:39.284707] Accept a request from client!
+[2018-10-31 19:30:39.284730] Client sent request to proxy with headers:
+[2018-10-31 19:30:39.284741] Connect to from ('127.0.0.1', 49182)
+
+
+2018-10-31 19:30:39.284751
+-------------------------------------------
+b'GET http://www.baharnews.ir/images/docs/000163/n00163478-s.jpg HTTP/1.1'
+b'Host: www.baharnews.ir'
+b'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0'
+b'Accept: */*'
+b'Accept-Language: en-US,en;q=0.5'
+b'Accept-Encoding: gzip, deflate'
+b'Referer: http://www.baharnews.ir/'
+b'Connection: keep-alive'
+b''
+-------------------------------------------
+
+2018-10-31 19:30:39.431690
+-------------------------------------------
+Date: Wed, 31 Oct 2018 16:00:39 GMT
+Server: Apache
+Last-Modified: Tue, 30 Oct 2018 09:09:50 GMT
+Accept-Ranges: bytes
+Content-Length: 9219
+Connection: close
+Content-Type: image/jpeg
+
+-------------------------------------------
+[2018-10-31 19:30:44.933874] Accept a request from client!
+[2018-10-31 19:30:44.933939] Client sent request to proxy with headers:
+[2018-10-31 19:30:44.933966] Connect to from ('127.0.0.1', 49296)
+
+
+2018-10-31 19:30:44.933986
+-------------------------------------------
+-------------------------------------------
+[2018-10-31 19:30:47.900426] Accept a request from client!
+[2018-10-31 19:30:47.900470] Client sent request to proxy with headers:
+[2018-10-31 19:30:47.900492] Connect to from ('127.0.0.1', 49616)
+
+
+2018-10-31 19:30:47.900505
+-------------------------------------------
