@@ -24,6 +24,7 @@ def log_header(data):
         log_file.write('-------------------------------------------\n')
         for line in data.splitlines():
             log_file.write(str(line) + '\n')
+            print(line)
         log_file.write('-------------------------------------------\n')
 
 

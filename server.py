@@ -1,10 +1,12 @@
-from config import PORT, MAX_CONNECTION, MAX_BUFFER_SIZE
+# from config import PORT, MAX_CONNECTION, MAX_BUFFER_SIZE, PRIVACY
+import config
 import logger
 import socket
 import sys
 import urllib.request
 import signal
-
+import time
+import parser
 
 class ProxyServer:
     def run(self):
@@ -17,10 +19,10 @@ class ProxyServer:
             logger.log('Proxy launched')
             logger.log('Creating server...')
 
-            my_socket.bind(('127.0.0.1', PORT))
-            logger.log('Binding socket to port ' + str(PORT) + '...')
+            my_socket.bind(('127.0.0.1', config.PORT))
+            logger.log('Binding socket to port ' + str(config.PORT) + '...')
 
-            my_socket.listen(MAX_CONNECTION)
+            my_socket.listen(config.MAX_CONNECTION)
             logger.log('Listening for incoming requests...\n')
 
         except Exception as e:
@@ -30,18 +32,21 @@ class ProxyServer:
         while True:
             try:
                 conn, addr = my_socket.accept()
-                data = conn.recv(MAX_BUFFER_SIZE)
+                data = conn.recv(config.MAX_BUFFER_SIZE)
                 logger.log('Accept a request from client!')
                 logger.log('Client sent request to proxy with headers:')
                 logger.log('Connect to from ' + str(addr) + '\n')
                 logger.log_header(data)
 
                 try:
-                    req_type, path = self.get_request_path(data)
-                    resp = self.send_request_to_host(path)
-                    conn.sendto(resp, addr)
+                    if self.check_restriction(data):
+                        req_type, path = parser.get_request_path(data)
+                        resp = self.send_request_to_host(path)
+                        conn.sendto(resp, addr)
+
                 except IndexError:
                     conn.sendto("".encode("ASCII"), addr)
+
                 # resp_data = "reza"
                 # my_socket.send(resp_data.encode("ASCII"))
             except KeyboardInterrupt as e:
@@ -53,8 +58,42 @@ class ProxyServer:
                 my_socket.close()
                 sys.exit(2)
 
+    def check_restriction(self, data):
+        host = parser.get_host(data)
+        # host = 'acm.ut.ac.ir'
+        restrict_type, delay = self.get_restriction_config(host)
+        if restrict_type == config.BLOCK:
+            logger.log('Requested host(' + host + ')  is BLOCKED')
+            return False
+        elif restrict_type == config.SLOW:
+            logger.log('Requested host(' + host + ') has SLOW restriction for ' + str(delay) + 'ms')
+            time.sleep(delay / 1000)    # delay is in ms
+            return True
+        else:
+            return True
+
+    def get_restriction_config(self, host):
+        rstr_enable = config.RESTRICTION['enable']
+        targets = config.RESTRICTION['targets']
+
+        if rstr_enable:
+            for t in targets:
+                if t['URL'] == host:
+                    if t['restrictType'] == config.BLOCK:
+                        return t['restrictType'], 0
+                    elif t['restrictType'] == config.SLOW:
+                        return t['restrictType'], t['delay']
+        return None, 0
+
+    def get_user_agent(self):
+        hide_user_agent = config.PRIVACY['enable']
+        if hide_user_agent:
+            return config.PRIVACY['userAgent']
+        return ""
+
     def send_request_to_host(self, path):
         req = urllib.request.Request(path)
+        req.add_header('user-agent', self.get_user_agent())
         # req.add_header()
         # logger.log_header(req.headers)
         # print(req.headers)
@@ -72,11 +111,6 @@ class ProxyServer:
     def signal_handler(self, signnum, frame):
         sys.exit(0)
 
-    def get_request_path(self, req):
-        lines = req.splitlines()
-        first_line = str(lines[0])
-        elems = first_line.split()
-        return elems[0], elems[1]
 
 
 server = ProxyServer()
